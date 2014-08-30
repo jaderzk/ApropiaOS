@@ -6,3 +6,6 @@
  * and open the template in the editor.
  */
 
+echo "Corriendo pruebas de GitHub";
+
+?>
